@@ -8,6 +8,9 @@ from PySide6.QtCore import Qt
 from generators import NoteGenerator, MultipleOfThreeGenerator
 from email_validator import EmailValidator
 
+#И всем привет, дорогие друзья!
+#Сегодня я покажу вам, как сделать небольшой проект по Теории алгоритмов буквально за несколько минут
+#Начнём с простого
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
