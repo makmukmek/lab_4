@@ -11,6 +11,7 @@ class NoteGenerator:
         for _ in range(count):
             yield random.choice(self.notes)
 
+#"njn rjl yb hfpe yt cgbp;ty kjk
 class MultipleOfThreeGenerator:
     """Класс для генерации чисел, кратных 3"""
     
